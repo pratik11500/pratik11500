@@ -8,7 +8,7 @@
   <a href="https://t.me/pratik_js/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=%20%20Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="ashishkumarsinghhhh@gmail.com" target="_blank">
+  <a href="mailto:ashishkumarsinghhhh@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">I am Pratik aka Ashish Kumar an 9th standard student interested in programming</p>
+<p align="center">I am Pratik aka Ashish Kumar, a 9th standard student interested in programming</p>
 
 ###
 
