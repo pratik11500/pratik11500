@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://c.tenor.com/2ILO5Wd1aD4AAAAC/dark-scary-face-creepy.gif"  />
+  <img height="300" src=""  />
 </div>
 
 ###
